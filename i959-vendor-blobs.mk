@@ -39,7 +39,6 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/i959/proprietary/lib/liblvverx_3.20.03.so:system/vendor/lib/liblvverx_3.20.03.so \
 	vendor/samsung/i959/proprietary/lib/liblvvetx_3.20.03.so:system/vendor/lib/liblvvetx_3.20.03.so \
 	vendor/samsung/i959/proprietary/usr/share/alsa/alsa.conf:system/usr/share/alsa/alsa.conf \
-        vendor/samsung/i959/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
         vendor/samsung/i959/proprietary/lib/libfactoryutil.so:system/lib/libfactoryutil.so \
 	vendor/samsung/i959/proprietary/lib/omx/libOMX.Exynos.AVC.Encoder.so:system/lib/omx/libOMX.Exynos.AVC.Encoder.so
 
